@@ -29,10 +29,7 @@ A web application for students to book sessions with tutors.
 
 ## UML Diagram
 
-- 
- <picture> <source media="(prefers-color-scheme: dark)" srcset="UML diagram/UML diagram-dark.png"> 
- <img src="UML diagram/UML diagram-light.png"> 
- </picture> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="UML%20diagram/UML%20diagram-dark.png"> <img src="UML%20diagram/UML%20diagram-light.png"> </picture> 
 
 
 - Open : <a href="UML%20diagram/UML%20diagram.drawio">Draw IO</a>
