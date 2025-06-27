@@ -63,7 +63,7 @@ A web application for students to book sessions with tutors.
 
 ### File-based Database
 
-This project uses plain text files to store user, tutor, booking, payment, and review data. Ensure the application has write permissions to these files.
+This project uses plain text files to store user, tutor, booking, payment, admin and review data. Ensure the application has write permissions to these files.
 
 ### Usage
 
